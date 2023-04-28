@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <style>
+            h1{
+                color: rgb(255, 2, 255);
+                font-style: italic;
+                font-weight: 200;
+                font-variant: small-caps;
+                font-size: 80px;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                text-decoration: overline;
+            }
+
+            h2{
+                color: rgba(255, 2, 255, 0.5);
+                font-style: oblique;
+                font-weight: 900;
+                font-size: 80px;
+                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                text-align: center;
+                text-decoration: underline overline yellow;
+            }
+
+            h3{
+                color: #1323ff;
+                font-size: 80px;
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+            img{
+                width: 100px;
+                height: auto;
+               padding-left: 50px;
+               padding-right: 50px;
+               padding-top: 50px;
+               padding-bottom: 50px;
+            }
+            </style>
+    </head>
+
+        <body style="background-color: antiquewhite;">
+            <h1>rgb rgba코드 차이</h1>
+            <h2>rgb rgba코드 차이</h2>
+            <h3>rgb rgba코드 차이</h3>
+            <img src="https://ichef.bbci.co.uk/news/640/cpsprodpb/E172/production/_126241775_getty_cats.png">
+            <img src="https://src.hidoc.co.kr/image/lib/2022/5/12/1652337370806_0.jpg">
+        </body>
+  
+</html>
